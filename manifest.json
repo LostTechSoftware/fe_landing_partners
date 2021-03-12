@@ -1,0 +1,10 @@
+{
+  "name": "FoodZilla",
+  "short_name": "FoodZilla",
+  "background_color": "#ffe115",
+  "theme_color": "#ffffff",
+  "description": "O jeito mais fácil de pedir delivery de comida. A maior lista de restaurantes online em sua cidade. Faça seu pedido pela internet e receba em casa.",
+  "lang": "pt-BR",
+  "display": "standalone",
+  "orientation": "portrait"
+  }
